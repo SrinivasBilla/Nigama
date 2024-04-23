@@ -18,7 +18,7 @@
  * @package WordPress
  */
 
-// ** Database settings - You can get this info from your web host ** //
+// ** Database settings - You can get this info from your web host  W86EF3d#sAxXHm^I%G** //
 /** The name of the database for WordPress */
 define( 'DB_NAME', 'nigama' );
 
